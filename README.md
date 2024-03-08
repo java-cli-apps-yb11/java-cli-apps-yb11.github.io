@@ -4,9 +4,9 @@
 
 [![Vidéo](images/video-paris-jug.png)](https://youtu.be/Disp1KJDKzA?si=_Owz6_UxddetUzCT)
 
-[Slides](https://java-cli-apps.github.io/)
+[Slides](https://java-cli-apps-yb11.github.io/)
 
-[Slides Annexes](https://java-cli-apps.github.io/Annexes.html)
+[Slides Annexes](https://java-cli-apps-yb11.github.io/Annexes.html)
 
 ## Exemples de code
 
