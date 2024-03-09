@@ -6,8 +6,6 @@
 
 [Slides](https://java-cli-apps-yb11.github.io/)
 
-[Slides Annexes](https://java-cli-apps-yb11.github.io/Annexes.html)
-
 ## Exemples de code
 
 ### Exemple d'utilisation de la JEP 458
